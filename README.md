@@ -1,1 +1,1 @@
-paagal jenkins
+jenkins is ready
